@@ -43,8 +43,8 @@ ChatGPT：
 
 ## 📚 Materiais de Apoio
 
-- Imagens utilizadas em `[files](https://github.com/maycondouglasnavy-prog/prompts-for-ebook-generate-by-ia/blob/main/ChatGPT%20Image%2011%20de%20out.%20de%202025%2C%2013_27_58.png)`
-- eBook gerado em `[files](https://github.com/maycondouglasnavy-prog/prompts-for-ebook-generate-by-ia/blob/main/ChatGPT%20Image%2011%20de%20out.%20de%202025%2C%2013_27_58.png)`
+- Imagens utilizadas em `[files]`
+- eBook gerado em `[files]`
 
 ## 🛠️ Passo a Passo para Reproduzir
 
