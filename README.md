@@ -1,7 +1,6 @@
 <p align="center">
 <img 
-    src="<img width="1024" height="1536" alt="ChatGPT Image 11 de out  de 2025, 13_27_58" src="https://github.com/user-attachments/assets/79a6d65f-ecc5-466c-b30f-8059ed5bc44f" />
-"
+    src="ChatGPT Image 11 de out  de 2025, 13_27_58"
     width="300"
 />
 </p>
