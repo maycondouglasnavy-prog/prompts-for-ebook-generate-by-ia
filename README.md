@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="ChatGPT Image 11 de out  de 2025, 13_27_58"
+    src="ChatGPT Image 11 de out. de 2025, 13_27_58.png"
     width="300"
 />
 </p>
@@ -8,6 +8,7 @@
     
     
 </p>
+
 # 📔 Projeto eBook gerado por IA
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
