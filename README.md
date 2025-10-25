@@ -32,7 +32,6 @@ ChatGPT：
 |  título  | Crie um título de um ebook sobre o tema customer service, o ebook é do nicho de logística e o subnicho é de customer service, o título deve ser épico e curto                                                     |
 | conteúdo | Faça um texto para ebook, com foco em Customer Service (Logística), listando ferramentas úteis e também demandas, desafios e importância da área. Inspirado no nosso título criado "Potência Logística: O Poder do Customer Service" {REGRAS} - explique sempre de uma maneira simples - deixe o texto enxuto - sempre traga exemplos em contextos reais - sempre deixe um título sugestivo por tópico |
 
-| capa     | ebook cover design for a logistics-themed book titled "Potência Logística: O Poder do Customer Service", featuring a modern and professional visual style. Show a dynamic composition with elements of global logistics — containers, trucks, airplanes, and digital connections — symbolizing efficiency and innovation. Include subtle representations of customer support, such as communication icons or teamwork visuals. The color palette should blend deep blue, electric orange, and white, conveying trust, energy, and technology. Clean typography, minimalist layout, and a sense of forward movement. high resolution, cinematic lighting, realistic details, 16:9, centered title   |
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
