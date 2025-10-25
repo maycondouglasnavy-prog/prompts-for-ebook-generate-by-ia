@@ -28,7 +28,7 @@ seguem abaixo.
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                                                        |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |
 |  título  | Crie um título de um ebook sobre o tema customer service, o ebook é do nicho de logística e o subnicho é de customer service, o título deve ser épico e curto                                                     |
 | conteúdo | Faça um texto para ebook, com foco em Customer Service (Logística), listando ferramentas úteis e também demandas, desafios e importância da área. Inspirado no nosso título criado "Potência Logística: O Poder do Customer Service" {REGRAS} - explique sempre de uma maneira simples - deixe o texto enxuto - sempre traga exemplos em contextos reais - sempre deixe um título sugestivo por tópico |
 
