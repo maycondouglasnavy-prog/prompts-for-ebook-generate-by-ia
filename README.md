@@ -36,7 +36,7 @@ ChatGPT：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| capa   | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| capa   | ebook cover design for a logistics-themed book titled "Potência Logística: O Poder do Customer Service", featuring a modern and professional visual style. Show a dynamic composition with elements of global logistics — containers, trucks, airplanes, and digital connections — symbolizing efficiency and innovation. Include subtle representations of customer support, such as communication icons or teamwork visuals. The color palette should blend deep blue, electric orange, and white, conveying trust, energy, and technology. Clean typography, minimalist layout, and a sense of forward movement. high resolution, cinematic lighting, realistic details, 16:9, centered title |
 
 ## ✨ Como foi construído?
 
